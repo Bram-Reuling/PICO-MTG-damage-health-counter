@@ -11,6 +11,7 @@ Download `mtg_damage_health_counter.zip` from the `Releases` section.
 Connect the RPI Pico W (with the Pico Display Pack attached to it) to your computer while pressing the `BOOTSEL` button on the board.
 
 **IMPORTANT: DO IT IN THIS ORDER**
+
 First upload the `mtg_damage_health_counter.bin` to the device.
 Then upload the `mtg_damage_health_counter.utf2` to the device. This will start executing the program.
 
